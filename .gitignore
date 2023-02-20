@@ -8,4 +8,4 @@
 *.iml
 tox.ini
 train_raw_images_*
-crop*
+crop_*
