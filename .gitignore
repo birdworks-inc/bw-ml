@@ -7,3 +7,5 @@
 **/_build
 *.iml
 tox.ini
+train_raw_images_*
+crop*
